@@ -48,4 +48,44 @@
    transition: all 0.05s cubic-bezier(0, 3.12, 1, -0.07);
 }
 
+.hourHand {
+    position: relative;
+    width: 30%;
+    left: 20%;
+}
+
+.hourHand img {
+    position: absolute;
+    left: -28px;
+    bottom: -12px;
+    width: 30px;
+    transform: rotate(270deg);
+}
+
+.minutehand {
+    width: 40%;
+    left: 10%;
+}
+
+.minutehand img {
+    position: absolute;
+    left: -28px;
+    bottom: -12px;
+    width: 30px;
+    transform: rotate(270deg);
+}
+
+.secondshand {
+    /* position: relative; */
+    width: 45%;
+    left: 5%;
+}
+
+.secondshand img {
+    position: absolute;
+    left: -28px;
+    bottom: -12px;
+    width: 30px;
+    transform: rotate(270deg);
+}
 
