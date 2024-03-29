@@ -5,3 +5,6 @@ From Today I'm doing this challenge of 30 Days 30 Javascript projects
 03-CSS-var-with-js: https://css-and-js.vercel.app/  
 04-expanding-cards:  
 05-Array-cardio-01
+06-Ajax-Type-Ahead  
+07-Array-cardio-2  
+08-HTML5-Canvas  
